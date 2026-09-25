@@ -23,7 +23,11 @@ Composición, iluminación sintética y renderizado fotorrealista.
 - 📌 **[Ver Repositorio de Renders](https://github.com/ortizsirandacristopher-source/Renders)**: Muestras de iluminación global y materiales en D5 Render.
 
 ---
+### 📚 Trabajos & Entregas Integrales
+Proyectos académicos y de ingeniería que combinan memoria técnica, planos y desarrollo completo.
+- 📌 **[Ver Trabajos Terminados](https://github.com/ortizsirandacristopher-source/trabajos-terminados)**
 
+---
 ## 🛠️ Herramientas & Tecnologías
 
 - **3D & Render:** Blender, SketchUp, D5 Render.
