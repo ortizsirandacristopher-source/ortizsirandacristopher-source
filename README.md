@@ -20,7 +20,7 @@ Diseño de assets, topología limpia y piezas tridimensionales.
 
 ### 🖼️ Renders & Visualización
 Composición, iluminación sintética y renderizado fotorrealista.
-- 📌 **[Ver Repositorio de Renders](https://github.com/ortizsirandacristopher-source/renders-portfolio)**: Muestras de iluminación global y materiales en D5 Render.
+- 📌 **[Ver Repositorio de Renders](https://github.com/ortizsirandacristopher-source/Renders)**: Muestras de iluminación global y materiales en D5 Render.
 
 ---
 
