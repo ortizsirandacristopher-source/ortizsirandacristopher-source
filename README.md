@@ -25,7 +25,7 @@ Composición, iluminación sintética y renderizado fotorrealista.
 ---
 ### 📚 Trabajos & Entregas Integrales
 Proyectos académicos y de ingeniería que combinan memoria técnica, planos y desarrollo completo.
-- 📌 **[Ver Trabajos Terminados](https://github.com/ortizsirandacristopher-source/trabajos-terminados)**
+- 📌 **[Ver Trabajos Terminados](https://github.com/ortizsirandacristopher-source/Trabajos-Terminados)**
 
 ---
 ## 🛠️ Herramientas & Tecnologías
